@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GameList</string>
+    <string-array name="title_array">
+        <item>God of War</item>
+        <item>Assassins Creed</item>
+        <item>The Witcher 3: Wild Hunt</item>
+        <item>Cyberpunk 2077</item>
+        <item>Red Dead Redemption 2</item>
+        <item>Horizon Zero Dawn</item>
+        <item>The Legend of Zelda: Breath of the Wild</item>
+        <item>Dark Souls III</item>
+        <item>Bloodborne</item>
+        <item>Skyrim</item>
+    </string-array>
+    <string-array name="developer_array">
+        <item>Santa Monica Studio</item>
+        <item>Ubisoft</item>
+        <item>CD Projekt</item>
+        <item>CD Projekt</item>
+        <item>Rockstar Games</item>
+        <item>Guerrilla Games</item>
+        <item>Nintendo</item>
+        <item>FromSoftware</item>
+        <item>FromSoftware</item>
+        <item>Bethesda Game Studios</item>
+    </string-array>
+    <string-array name="description_array">
+        <item>Embark on an epic journey through Norse mythology as Kratos and his son, Atreus, face gods and monsters.</item>
+        <item>Travel through history and explore ancient civilizations as a member of the Assassin Brotherhood.</item>
+        <item>Step into a rich, open world as Geralt of Rivia, battling monsters and navigating moral choices.</item>
+        <item>Experience a dystopian future as V, a mercenary in the neon-lit streets of Night City.</item>
+        <item>Explore the American frontier with Arthur Morgan, confronting outlaws and survival challenges.</item>
+        <item>Uncover the mysteries of a post-apocalyptic world where robotic creatures dominate the land.</item>
+        <item>Discover Hyrule in an expansive open world, solving puzzles and uncovering secrets.</item>
+        <item>Face treacherous environments and brutal enemies in a dark and unforgiving world.</item>
+        <item>Journey through a gothic city filled with deadly foes and eldritch horrors.</item>
+        <item>Venture into the lands of Skyrim as the Dragonborn, fulfilling ancient prophecies and wielding powerful abilities.</item>
+    </string-array>
+</resources>
